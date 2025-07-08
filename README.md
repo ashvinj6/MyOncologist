@@ -95,4 +95,9 @@ For questions, partnerships, or demo requests:
 ## ⭐️ Why MyOncologist?
 - **Empower patients** with early, accessible cancer risk screening.
 - **Connect to real oncologists** for expert care.
-- **Modern, investor-ready platform** for the future of oncology. 
+- **Modern, investor-ready platform** for the future of oncology. <img width="1440" alt="Screenshot 2025-07-07 at 8 30 23 PM" src="https://github.com/user-attachments/assets/5e934339-cbfb-4747-8e0a-1842e8efcada" />
+<img width="1101" alt="Screenshot 2025-07-07 at 8 30 10 PM" src="https://github.com/user-attachments/assets/66a5cddb-b1cb-4acf-b5ea-20dfbb721bda" />
+<img width="907" alt="Screenshot 2025-07-07 at 8 29 22 PM" src="https://github.com/user-attachments/assets/98bde1b9-5338-46af-ae98-2757c852b7b1" />
+<img width="943" alt="Screenshot 2025-07-07 at 8 28 50 PM" src="https://github.com/user-attachments/assets/49e47357-71d3-48be-a09b-b66c091ea1c8" />
+<img width="969" alt="Screenshot 2025-07-07 at 8 28 29 PM" src="https://github.com/user-attachments/assets/dd87701f-ee9b-417b-8601-f2a3829430d6" />
+<img width="1512" alt="Screenshot 2025-07-07 at 8 28 09 PM" src="https://github.com/user-attachments/assets/6cfce2da-5d99-412e-bace-4fdea8094ca8" />
