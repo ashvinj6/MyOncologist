@@ -102,6 +102,5 @@ For questions, partnerships, or demo requests:
 <img width="943" alt="Screenshot 2025-07-07 at 8 28 50 PM" src="https://github.com/user-attachments/assets/49e47357-71d3-48be-a09b-b66c091ea1c8" />
 <img width="907" alt="Screenshot 2025-07-07 at 8 29 22 PM" src="https://github.com/user-attachments/assets/98bde1b9-5338-46af-ae98-2757c852b7b1" />
 <img width="1101" alt="Screenshot 2025-07-07 at 8 30 10 PM" src="https://github.com/user-attachments/assets/66a5cddb-b1cb-4acf-b5ea-20dfbb721bda" />
-<img width="1440" alt="Screenshot 2025-07-07 at 8 30 23 PM" src="https://github.com/user-attachments/assets/5e934339-cbfb-4747-8e0a-1842e8efcada" />
 
 
